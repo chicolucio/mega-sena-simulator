@@ -12,10 +12,8 @@ export class Board {
   }
 
   #create() {
-    // let board = [];
     for (let i = 1; i <= this.maxNumber; i++) {
       this.#spaces.push(i);
     }
-    // return board;
   }
 }

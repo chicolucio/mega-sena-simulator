@@ -2,7 +2,6 @@ import { Board } from "./board.js";
 import { Game } from "./game.js";
 
 const board = new Board();
-// board.create();
 
 let game = new Game();
 
