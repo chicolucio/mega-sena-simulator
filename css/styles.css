@@ -1,0 +1,97 @@
+html {
+    background-color: white;
+}
+
+body {
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgray;
+    max-width: 600px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    float: none !important;
+    border-radius: 15%;
+}
+
+h1 {
+    text-align: center;
+    color: darkgreen;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+}
+
+#social-links {
+    margin: auto;
+    display: block;
+    text-align: center;
+}
+
+button {
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.numbers {
+    border: 1px solid darkred;
+    padding: 10px;
+    list-style-type: none;
+    font-family: monospace;
+    font-size: 20px;
+    text-align: center;
+    background-color: lemonchiffon;
+}
+
+.number {
+    display: inline-block;
+    margin: 10px;
+    border: 1px solid red;
+    width: 25px;
+    padding: 5px;
+    border-radius: 100%;
+    user-select: none;
+    cursor: pointer;
+}
+
+.number:hover {
+    background-color: lightgreen;
+}
+
+.selected-number {
+    /*background-color: lightgreen;*/
+    background-color: navy;
+    color: white;
+}
+
+.selected-number:hover {
+    background-color: lightpink;
+}
+
+.buttons {
+    padding: 10px;
+    list-style-type: none;
+    font-family: monospace;
+    font-size: 20px;
+    text-align: center;
+    background-color: silver;
+}
+
+.button {
+    display: inline-block;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 100%;
+    user-select: none;
+    cursor: pointer;
+}
+
+.saved-games {
+    padding: 0px;
+    font-family: monospace;
+    font-size: 20px;
+    text-align: center;
+}
