@@ -4,7 +4,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/cd73ced2-3fe0-4c5d-b97a-e881295483f7/deploy-status)](https://app.netlify.com/sites/mega-sena-simulator/deploys)
 
 <p align="center">
-<img src="https://github.com/chicolucio/mega-sena-simulator/blob/master/readme_featured_image.gif?raw=true" alt="featured image" height="300px">
+<img src="https://github.com/chicolucio/mega-sena-simulator/blob/master/readme_featured_image.gif?raw=true" alt="featured image" height="400px">
 </p>
 
 # Mega-Sena simulator
