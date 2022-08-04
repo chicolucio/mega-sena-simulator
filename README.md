@@ -35,7 +35,7 @@ To run a local version:
 
 ```
 git clone git@github.com:chicolucio/mega-sena-simulator.git
-cd bmi
+cd mega-sena-simulator
 npm install
 npm test
 ```
